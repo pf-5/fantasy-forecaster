@@ -4,7 +4,7 @@
 module.exports = {
   siteMetadata: {
     title: `Fantasy Forecaster`,
-    siteUrl: `https://jackarnold84.github.io/fantasy-forecaster/`
+    siteUrl: `https://pf-5.github.io/fantasy-forecaster/`
   },
   pathPrefix: "/fantasy-forecaster",
   plugins: [
